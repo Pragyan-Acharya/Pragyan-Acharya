@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pragyan Acharya</h1>
+<div align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Initializing+system...;Loading+profile+data...;Authenticating+user+Pragyan+Acharya...;Access+Granted+✔;Welcome+to+the+terminal+of+Pragyan+Acharya" />
+
+</div>
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Developer;Coder;Programmer;Engineer;Software+Architect;Technologist;Blockchain+Expert;Platform+Engineer;DevSecOps+Engineer;Cyber+Security+Enthusiast" />
 </h3>
