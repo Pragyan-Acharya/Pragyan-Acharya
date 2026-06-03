@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pragyan Acharya</h1>
-<h3 align="center">Passionate about developing and integrating Information and Communication Technologies that create meaningful value for society. A motivated and enthusiastic individual who is always eager to learn new skills and broaden professional expertise. Previously worked as a Web Developer and Network Administrator, and currently pursuing a career path in Cyber Security.</h3>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Developer;Coder;Programmer;Engineer;Software+Architect;Technologist;Blockchain+Expert;Platform+Engineer;DevSecOps+Engineer;Cyber+Security+Enthusiast" />
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pragyan-acharya&label=Profile%20views&color=0e75b6&style=flat" alt="pragyan-acharya" /> </p>
 
