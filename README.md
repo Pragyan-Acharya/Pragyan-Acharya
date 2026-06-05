@@ -10,8 +10,9 @@
 
 </div>
 
+
 <div align="center">
-  <img src="https://github.com/Pragyan-Acharya/Pragyan-Acharya/blob/main/stats.yml" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/Pragyan-Acharya/Pragyan-Acharya/stats-output/stats.svg" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/Pragyan-Acharya/Pragyan-Acharya/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
