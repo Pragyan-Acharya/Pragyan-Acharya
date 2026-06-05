@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=900&lines=Hi+%F0%9F%91%8B+I'm+Pragyan+Acharya;Building+Secure+and+Scalable+Systems;DevSecOps+%7C+Cybersecurity+%7C+Cloud;Passionate+about+Technology+and+Innovation" />
 </h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1000&color=00FF41&center=true&vCenter=true&width=850&lines=%24+Initializing+terminal...;%24+Loading+developer+profile...;%24+Authenticating+Pragyan+Acharya...;%24+Access+Granted+%E2%9C%94;%24+Welcome+to+my+GitHub+Profile" />
+
 
 </div>
 
