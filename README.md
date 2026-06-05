@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=900&lines=Hi+%F0%9F%91%8B+I'm+Pragyan+Acharya;Building+Secure+and+Scalable+Systems;DevSecOps+%7C+Cybersecurity+%7C+Cloud;Passionate+about+Technology+and+Innovation" />
 </h1>
 
-
+<p align="center"> <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="500" /> </p>
 
 </div>
 
