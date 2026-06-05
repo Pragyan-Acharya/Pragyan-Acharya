@@ -244,9 +244,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="32" alt="android logo"  />
 </div>
 
-###
 
 <br clear="both">
 
 <div align="center"> <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"/> </div>
-###
+
