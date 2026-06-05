@@ -1,6 +1,14 @@
-<h2 align="center">Hi 👋! My name is Pragyan Acharya and I'm a Computer Engineer from Nepal</h2>
+<div align="center">
 
-###
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0f0f,25:001F3F,50:00F5FF,75:001F3F,100:0f0f0f&text=Pragyan%20Acharya&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Cybersecurity%20Enthusiast%20%7C%20Platform%20Engineer&descAlignY=58"/>
+
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=900&lines=Hi+%F0%9F%91%8B+I'm+Pragyan+Acharya;Building+Secure+and+Scalable+Systems;DevSecOps+%7C+Cybersecurity+%7C+Cloud;Passionate+about+Technology+and+Innovation" />
+</h1>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1000&color=00FF41&center=true&vCenter=true&width=850&lines=%24+Initializing+terminal...;%24+Loading+developer+profile...;%24+Authenticating+Pragyan+Acharya...;%24+Access+Granted+%E2%9C%94;%24+Welcome+to+my+GitHub+Profile" />
+
+</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Pragyan-Acharya/Pragyan-Acharya/stats-output/stats.svg" height="150" alt="stats graph"  />
